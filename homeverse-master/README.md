@@ -53,5 +53,5 @@ git clone https://github.com/codewithsadee/homeverse.git
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
-
+Click to visit website :https://enockireri.github.io/DEMIC/
 This project is **free to use** and does not contains any license.
